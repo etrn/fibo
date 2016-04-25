@@ -1,4 +1,4 @@
-alert('In console are fibonacci numbers');
+alert('In console you can see fibonacci 100 numbers');
 fib();
 function fib() {
     var c = 1;
